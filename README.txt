@@ -1,11 +1,9 @@
-Hi there,
+Hello!
 
-This is my personal website I'm using to explain my work and some part of my life in a different perspective: my perspective. Not that it is great, but it is the way I think is good. I always wanted to put everything in one place and maybe that's my chance.
+This entire website comes from html5up.net (@ajlkn - free for personal and commercial use under the CCA 3.0 license, html5up.net/license).
 
-Feel free to use this template for yourelf, I got this one from html5up.net (@ajlkn - free for personal and commercial use under the CCA 3.0 license, html5up.net/license).
+I used as a base the code provided by Gui Frainer (in memoriam) at github.com/Gui-Frainer.
 
-I hope you like it!
+I hope the information available here is useful to someone!
 
-Gui
-
-
+LGRA
